@@ -42,4 +42,4 @@
 
 ###
 
-<img  src="https://github-readme-stats.vercel.app/api?username=fayez-baig&show_icons=true&count_private=true&&include_all_commits =true&theme=react" alt="fayez-baig" /> <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayez-baig&hide=hack,php&theme=nord" alt="fayez-baig" />
+<img  src="https://github-readme-stats.vercel.app/api?username=fayez-baig&show_icons=true&count_private=true&&include_all_commits =true&theme=react" alt="fayez-baig" /> <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayez-baig&hide=hack,php&theme=react" alt="fayez-baig" />
