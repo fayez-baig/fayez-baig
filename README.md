@@ -36,7 +36,7 @@
 
 <p align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=https://linkedin.com/in/coder-ninja target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="coder-ninja" height="45" width="45" /></a> <a href="mailto: coderninja16@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="coder-ninja" height="45" width="45" /></a> <a href=https://instagram.com/fayez_baig target="blank"><img align="center" src=https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg alt="fayez_baig" height="45" width="45" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=https://linkedin.com/in/coder-ninja target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="coder-ninja" height="45" width="45" /></a> <a href="mailto: coderninja16@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="coder-ninja" height="45" width="45" /></a> <a href=https://instagram.com/fayez_baig target="blank"><img align="center" src=https://lh3.googleusercontent.com/proxy/ODhxCB9DRFJTpOZbEQCQJMJe9v2aDxPh_2Iz1mITKff7zYYm3abi9qLyQJyXD09CDtEAfcG7cdX1KgD72jzGm_9rUpS-BjMkEQPdWNUYQZdi2xZ5WUyX8NFBJPH7FlWKMeR-BUtLJz4UJGtZVy3Dmd6E8eWK43c80g0jmlVSfwHt_G8SWA alt="fayez_baig" height="45" width="45" /></a>
 
 </p>
 
