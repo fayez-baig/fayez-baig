@@ -36,7 +36,7 @@
 
 <p align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=https://linkedin.com/in/coder-ninja target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="coder-ninja" height="45" width="45" /></a> <a href="mailto: coderninja16@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="coder-ninja" height="45" width="45" /></a> <a href=https://instagram.com/fayez_baig target="blank"><img align="center" src=https://lh3.googleusercontent.com/proxy/sZF3YpDSFtX5Csbv7K-mW9GhQm1kPdMuE69kjBCH1IUm_LImwfo4sepTQuhOzgtiTTLXv8oYlXtNQ6hP7JbL16ZfM-qaqr-fS5XBFGjya_kN9HhCMYI alt="fayez_baig" height="45" width="45" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=https://linkedin.com/in/coder-ninja target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="coder-ninja" height="45" width="45" /></a> <a href="mailto: coderninja16@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="coder-ninja" height="45" width="45" /></a> <a href=https://instagram.com/fayez_baig target="blank"><img align="center" src=https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg alt="fayez_baig" height="45" width="45" /></a>
 
 </p>
 
