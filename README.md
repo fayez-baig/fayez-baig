@@ -6,7 +6,7 @@
 </p>
 </p>
 
-- 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="http://fyntune.com/ ">@FynTune</a></strong>
+- 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="http://fyntune.com">@FynTune</a></strong>
 
 - 🔭 I’m currently working on **React Dark Light UI** &nbsp; <a href="https://www.npmjs.com/package/react-dark-light-ui" target="_blank">npm Library</a>
 
