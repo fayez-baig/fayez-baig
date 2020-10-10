@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MGM UI** &nbsp; <a href="https://www.npmjs.com/package/mgm-ui-lib" target="_blank">npm Library</a>
 
-- 👯 I’m looking to collaborate on **MGM UI** <a href="https://www.npmjs.com/package/mgm-ui-lib" target="_blank">npm Library</a>
+- 👯 I’m looking to collaborate on **MGM UI LIBRARY** 
 
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 
