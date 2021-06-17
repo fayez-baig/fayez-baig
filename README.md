@@ -6,7 +6,7 @@
 </p>
 </p>
 
-- 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="http://fyntune.com">@FynTune</a></strong>
+- 💻 I'm a Frontend Developer &nbsp;<strong><a target="_blank"  href="https://www.extentia.com">@Extentia</a></strong>
 
 - 🔭 I’m currently working on **MGM UI** &nbsp; <a href="https://www.npmjs.com/package/mgm-ui-lib" target="_blank">npm Library</a>
 
